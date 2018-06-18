@@ -48,24 +48,18 @@ With the following software and hardware list you can run all code files present
 | 4        | Burp Pro            | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/PracticalWebPenetrationTesting_ColorImages.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Web Penetration Testing with Kali Linux - Third Edition [[Packt]](https://www.packtpub.com/networking-and-servers/web-penetration-testing-kali-linux-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623377) [[Amazon]](https://www.amazon.com/dp/1788623371)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Mastering Metasploit - Third Edition [[Packt]](https://www.packtpub.com/networking-and-servers/mastering-metasploit-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788990615) [[Amazon]](https://www.amazon.com/dp/1788990617)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
+**Gus Khawaja**
+Gus Khawaja holds a bachelor's degree in computer science. He specializes in IT security and ethical hacking. He is an author and shares his passion with millions of viewers around the world using his online courses. He also works as a cybersecurity consultant in Montreal, Canada.
 
-**Author Name**
-Bio
-
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+After many years of experience in programming, he turned his attention to cybersecurity and the importance that security brings to this minefield. His passion for the ethical hacking mixed with his background in programming and IT makes him a wise swiss-knife professional in the computer science domain.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
