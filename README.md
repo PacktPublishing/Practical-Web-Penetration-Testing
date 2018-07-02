@@ -38,7 +38,7 @@ class ServiceDTO:
 **Following is what you need for this book:**
 Practical Web Penetration Testing is for you if you are a security professional, penetration tester, or stakeholder who wants to execute penetration testing using the latest and most popular tools. Basic knowledge of ethical hacking would be an added advantage.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
 
 ### Software and Hardware List
 
